@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-package-lock.json
+# package-lock.json
+#Philip said to comment it out to pass github test:lecture19 35:00)
 
 # testing
 /coverage

@@ -1,4 +1,5 @@
-h1,
+/* changed from h1 to header */
+header,
 p {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   text-align: center;
@@ -51,7 +52,8 @@ td {
   padding: 8px;
 }
 
-h1 {
+/* changed from h1 to header */
+header {
   padding: 50px;
   text-align: center;
   background: #5c94ce;
